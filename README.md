@@ -11,6 +11,9 @@ This was developed using Android version 6.0+ with Android Studio version 3.3.3.
 
 This was part of TY.BSc.Computer Science Semester-2 project implementation course Jan-March 2019
 
+## App-ICON
+![app icon](https://user-images.githubusercontent.com/22409980/106822901-e986d080-6677-11eb-9969-ab2372ff7434.png)
+
 In-App User Interface
 
 ## Screen 1
